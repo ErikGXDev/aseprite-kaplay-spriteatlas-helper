@@ -1,0 +1,23 @@
+{
+  "name": "kaplay-spritesheet-helper",
+  "displayName": "KAPLAY Spritesheet Helper",
+  "description": "Creates a shortcut that lets you get the spritesheet coordinates of your current selection in a kaplay loadSpriteSheet() friendly format.",
+  "version": "1.0",
+  "author": {
+    "name": "Erik G.",
+    "url": "https://eriko.dev/"
+  },
+  "contributors": [],
+  "publisher": "erikgxdev",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./kaplay-helper.lua"
+      }
+    ]
+  }
+}

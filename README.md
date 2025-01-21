@@ -6,7 +6,7 @@
 
 1. Install the extension
 
-   - Either download the `kaplayhelper.aseprite-extension` file from the repo or bundle `kaplay-helper.lua` and `package.json` into a `.zip` or `.aseprite-extension` file
+   - Either download the [`kaplayhelper.aseprite-extension`](https://github.com/ErikGXDev/aseprite-kaplay-spriteatlas-helper/raw/refs/heads/main/kaplayhelper.aseprite-extension) file from the repo or bundle `kaplay-helper.lua` and `package.json` into a `.zip` or `.aseprite-extension` file
    - In Asesprite: "Edit" > "Preferences" > "Extensions" > Press "Add extension" and select the extension to install it
 
 2. Set a keyboard shortcut

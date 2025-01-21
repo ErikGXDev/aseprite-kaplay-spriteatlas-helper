@@ -15,11 +15,11 @@
    - Set a keyboard shortcut for that command
 
 3. Use the plugin
-   - Select a region and press your shortcut to copy the spriteatlas data to your clipboard. The data looks like this: `sprite: { x: ..., y: ..., width: ..., height: ...}`
+   - Select a region and press your shortcut to copy the spriteatlas data to your clipboard. The data looks like this: `{ x: ..., y: ..., width: ..., height: ...}`
    - Paste this data into your `loadSpriteAtlas()` options like this:
    ```js
     loadSpriteAtlas("sprites/...", {
-      <your sprite data here>
+      yourSpriteName: <paste your sprite data here>
     })
    ```
 

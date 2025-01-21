@@ -14,7 +14,7 @@ function init(plugin)
 
       local rectangle = sprite.selection.bounds
 
-      local exportString = "sprite: { x: " .. rectangle.x .. ", y: " .. rectangle.y .. ", width: " .. rectangle.width .. ", height: " .. rectangle.height .. " }"
+      local exportString = "{ x: " .. rectangle.x .. ", y: " .. rectangle.y .. ", width: " .. rectangle.width .. ", height: " .. rectangle.height .. " }"
 
       
       local copyCommmand = "clip"
